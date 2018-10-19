@@ -1712,3 +1712,10 @@ Place: Guadalajara
 About: CS Student
 Programming Language: Python
 Email: jonachuy@hotmail.com
+
+
+Name: [Steven Coll](https://github.com/7staff)
+Place: USA
+About: College student
+Programming Language: Python
+Email: src4gb@mail.missouri.edu
